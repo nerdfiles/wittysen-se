@@ -2,3 +2,4 @@ node_modules/
 keys/
 wittysen-se
 wittysen-se.pub
+.DS_store
