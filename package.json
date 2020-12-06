@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "karma"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "surge": "^0.21.7"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
   }
 }
